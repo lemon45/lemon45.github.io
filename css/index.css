@@ -1,0 +1,45 @@
+/*header*/
+.header {height: 100px;width: 990px;margin:0px auto;}
+.header_left {float: left;height: 100px;width: 100px;margin:0 auto;}
+.header_right {height: 100px;width: 890px;margin:0 auto;float:right;}
+.header_right_top{width:890px;height:30px;}
+.header_right_top table{float:right;margin-right:10px;line-height:30px;}
+.header_right_top li{float:right;margin-right:30px;line-height:30px;}
+.header_right_bottom{width:890px;height:70px;}
+.header_right_bottom p{float:left;font-size:18px;margin-left:550px;line-height:70px;}
+.header_right_bottom span{float:right;margin-right:30px;}
+ 
+
+/*nav1*/
+.nav1 {background-color:#000;height: 30px;width: 990px;margin:5px auto 0;line-height:30px;}
+.nav1 li{font-size:16px;float:left;}
+.nav1 li a{display:block;width:141.42px;height:30px;text-align:center;color:#FFF;text-decoration:none;}
+.nav1 li a:hover{color:#000;background:#FFF;}
+
+/*container*/
+.container {height: 420px;width: 990px;margin:5px auto 0;}
+.container_left {height: 398px;width: 258px;float:left;margin-right:5px;line-height:200%;padding:10px;border:1px solid #000;}
+.container_middle {background-color:#000;height: 420px;width: 420px;float:left;margin:right:5px;}
+.container_middle_bottom{height:125px;width:410px;margin-top:5px;color:#FFF;line-height:180%;margin:5px;}
+.container_right {height:418px;width: 278px;float:right;border:1px solid #000;text-indent:10px;}
+.container_right_T{height:30px;line-height:30px;border-bottom:1px solid #000;}
+.container_right_T span{float:right;margin-right:30px;}
+.container ul{line-height:28px;}
+
+/*pic*/
+.pic {height: 248px;width: 988px;margin:5px auto 0;border:1px solid #000;}
+.pic_T{height:30px;text-indent:40px;line-height:30px;font-size:20px;}
+.pic_body{text-indent:40px;}
+.pic_body span{margin-right:20px;}
+
+/*nav2*/
+.nav2 {height: 30px;width: 990px;margin:5px auto 0;line-height:30px;text-align:center;}
+
+/*address*/
+.address {height: 30px;width: 990px;margin:5px auto 0;border-top:1px solid #000;}
+.address p{color:#000;line-height:30px;text-align:center;text-indent:30px;}
+
+
+
+
+
